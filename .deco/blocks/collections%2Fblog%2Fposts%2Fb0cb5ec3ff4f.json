@@ -1,0 +1,13 @@
+{
+  "name": "collections/blog/posts/b0cb5ec3ff4f",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [],
+    "title": "안녕 난 박정훈",
+    "excerpt": "뿌잉",
+    "date": "2024-07-23",
+    "slug": "ㄴㄴ",
+    "content": "<p>ㅁㄴㅁㄴ</p>"
+  }
+}

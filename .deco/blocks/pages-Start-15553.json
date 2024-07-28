@@ -4,12 +4,16 @@
   "sections": [
     {
       "__resolveType": "site/sections/ItWorks.tsx",
-      "name": "<p>ㄴ</p>",
+      "name": "<p>이거어케하냐ㄴ</p>",
       "count": 1
     },
     {
       "__resolveType": "Footer"
     }
   ],
-  "__resolveType": "website/pages/Page.tsx"
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "type": "article"
+  }
 }
